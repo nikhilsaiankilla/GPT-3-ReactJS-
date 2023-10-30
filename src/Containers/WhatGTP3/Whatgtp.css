@@ -109,6 +109,9 @@
 }
 
 @media screen and (max-width: 850px) {
+  .section__margin{
+    margin: 2rem;
+  }
   .gpt3__whatgpt3__heading {
     flex-direction: column;
     align-items: flex-start;
